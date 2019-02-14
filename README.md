@@ -1,5 +1,8 @@
 # moat
 A fritzing project to build a semi modular pocket synth. An analog companion to Bastl instruments Kastle. 
+Find Kastle source here: https://github.com/bastl-instruments/kastle 
+
+Moat, unlike Kastle, is analog. It uses simple switching (pulse waves), a frequency divider and an XR 2206. And primitive filters. It sequences using the divider :) 
 
 # This is not finished ;)
 
