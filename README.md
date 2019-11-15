@@ -14,4 +14,4 @@ Well, version 2 is more or less finished. I simplified it substantially to fit i
 It's missing a 7805 (or the like) and the form factor ist too 'full' at the moment. I originally built this with Bastl Instruments Omsynth Breadboard kit:
 https://noise.kitchen/143-omsynth 
 
-And haven't moved some of the things from Omsynth into the plain breadboard design.
+
