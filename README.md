@@ -6,9 +6,11 @@ Moat, unlike Kastle, is analog. It uses simple switching (pulse waves), a freque
 
 It's a self-sequencing, semi-modular, pocket synth. Props to minimo, bastl, minty synth etc!
 
-# This is not finished ;)
+# Version 2 is now usable. Produced PCBs
 
-Well, version 2 is more or less finished. I simplified it substantially to fit in an altoids tin and still be playable. As soon as I have version 2 pcbs, I'll report (Dec. 2019, most probably).
+Well, version 2 is more or less finished. I simplified it substantially to fit in an altoids tin and still be playable. Version 2 PCBs assembled prove to be working.
+
+Further refinements are ongoing.
 
 
 It's missing a 7805 (or the like) and the form factor ist too 'full' at the moment. I originally built this with Bastl Instruments Omsynth Breadboard kit:
