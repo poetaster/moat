@@ -4,9 +4,11 @@ Find Kastle source here: https://github.com/bastl-instruments/kastle
 
 Moat, unlike Kastle, is analog. It uses simple switching (pulse waves), a frequency divider and an XR 2206. And primitive filters. It sequences using the divider :) 
 
+![PCB view](https://github.com/poetaster/moat/raw/master/moat.v2_pcb.png)
+
 It's a self-sequencing, semi-modular, pocket synth. Props to minimo, bastl, minty synth etc!
 
-# Version 2 is now usable. Produced PCBs
+## Version 2 is now usable. Produced PCBs
 
 Well, version 2 is more or less finished. I simplified it substantially to fit in an altoids tin and still be playable. Version 2 PCBs assembled prove to be working.
 
