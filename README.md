@@ -10,14 +10,14 @@ It's a self-sequencing, semi-modular, pocket synth. Props to minimo, bastl, mint
 
 ## Moat, file Version 2 is now usable. Produced PCBs
 
-Version 3 is DEFECTIVE!
-
 Well, version 2 is more or less finished. I simplified it substantially to fit in an altoids tin and still be playable. Version 2 PCBs assembled prove to be working.
+
+Version 3, keep.v3, with name change from moat (reserved for a future project) to keep is now also production ready. Yeah! Version 3 was made for 2 reasons. 1, clarify the layout (moving the sequence mixing from the top to the side) and make patching a bit easier and 2, reducing the size by about a 10 mm in the horizontal and 3 in the vertical. This makes it possible to put in an altoid tin.
 
 Further refinements are ongoing.
 
 
-It's missing a 7805 (or the like) and the form factor ist too 'full' at the moment. I originally built this with Bastl Instruments Omsynth Breadboard kit:
+It's missing a 7805 (or the like). I originally built this with Bastl Instruments Omsynth Breadboard kit:
 https://noise.kitchen/143-omsynth 
 
 
