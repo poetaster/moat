@@ -4,7 +4,7 @@ Find Kastle source here: https://github.com/bastl-instruments/kastle
 
 Moat, unlike Kastle, is analog. It uses simple switching (pulse waves), a frequency divider and an XR 2206. And primitive filters. It sequences using the divider :) 
 
-The XR features 2 FM inputs and one AM input. The XOR is providing on LFO pulse and one square wave OSC. And everything modulates:)
+The XR features 2 FM inputs and one AM input. The waveshape of the XR can be tuned from brash triangle to simple sine. The XOR is providing on LFO pulse and one square wave OSC. And everything modulates:)
 
 ![PCB view](keep.v3_pcb.jpg)
 
