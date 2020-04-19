@@ -6,6 +6,8 @@ Moat, unlike Kastle, is analog. It uses simple switching (pulse waves), a freque
 
 The XR features 2 FM inputs and one AM input. The waveshape of the XR can be tuned from brash triangle to simple sine. The XOR is providing on LFO pulse and one square wave OSC. And everything modulates:)
 
+Some audio samples can be found here: https://poetaster.de/synths/mediaplayer.html
+
 ![Cigarbox prototype with kastle](keepv3-chef-kastle.jpg)
 
 It's a self-sequencing, semi-modular, pocket synth. Props to minimo, bastl, minty synth etc!
