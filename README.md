@@ -6,8 +6,7 @@ Moat, unlike Kastle, is analog. It uses simple switching (pulse waves), a freque
 
 The XR features 2 FM inputs and one AM input. The waveshape of the XR can be tuned from brash triangle to simple sine. The XOR is providing on LFO pulse and one square wave OSC. And everything modulates:)
 
-![PCB view](keep.v3_pcb.jpg)
-
+![Cigarbox prototype with kastle](keepv3-chef-kastle.jpg)
 
 It's a self-sequencing, semi-modular, pocket synth. Props to minimo, bastl, minty synth etc!
 
@@ -18,6 +17,8 @@ Version 3, renamed from moat (future project), is more or less finished. I simpl
 Version 3 was made for 2 reasons. 1, clarify the layout (moving the sequence mixing from the top to the side) and make patching a bit easier and 2, reducing the size by about a 10 mm in the horizontal and 3 in the vertical. This makes it possible to put in an altoid tin.
 
 Further refinements are ongoing.
+
+![PCB view](keep.v3_pcb.jpg)
 
 
 It's missing a 7805 (or the like). I originally built this with Bastl Instruments Omsynth Breadboard kit:
