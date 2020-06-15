@@ -8,6 +8,7 @@ The XR features 2 FM inputs and one AM input. The waveshape of the XR can be tun
 
 Some audio samples can be found here: https://poetaster.de/synths/mediaplayer.html
 
+![Cigarbox prototype laser cut with etched lettering](keep_v3.jpg)
 ![Cigarbox prototype with kastle](keepv3-chef-kastle.jpg)
 
 It's a self-sequencing, semi-modular, pocket synth. Props to minimo, bastl, minty synth etc!
