@@ -26,6 +26,6 @@ Further refinements are ongoing.
 
 
 It's missing a 7805 (or the like). I originally built this with Bastl Instruments Omsynth Breadboard kit:
-https://noise.kitchen/143-omsynth 
+https://noise.kitchen/search?controller=search&s=omsynth 
 
 
