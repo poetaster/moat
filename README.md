@@ -14,20 +14,18 @@ Some audio samples can be found here: https://poetaster.de/synths/
 
 It's a self-sequencing, semi-modular, pocket synth. Props to minimo, bastl, minty synth etc!
 
-## keep, Version 3 is now usable. Produced PCBs
+## keep, Version 4 is now in production. 
 
 ''Don't use the old moat fritzing projects''.
 
-Version 3, renamed from moat (future project), is more or less finished. I simplified it substantially to fit in an altoids tin and still be playable. Version 3 PCBs assembled prove to be working. I moved the shape (tri-sine) pot up to use while playing and removed the amplitude adjust, we have an input for that :)
-
-Version 3 was made for 2 reasons. 1, clarify the layout (moving the sequence mixing from the top to the side) and make patching a bit easier and 2, reducing the size by about a 10 mm in the horizontal and 3 in the vertical. This makes it possible to put in an altoid tin.
-
-Further refinements are ongoing.
-
-![PCB view](keep.v3_pcb.jpg)
+Version 4 adds waveshaping on the amplitude modulation input, changes the order of the sequencer mix and adds outputs on the rest of the 4040 Q outputs. Otherwise, it adds more space, especially to ease installing vactrol
 
 
-It's missing a 7805 (or the like). I originally built this with Bastl Instruments Omsynth Breadboard kit:
+![PCB view](keepV4pcb.png)
+![PCB toppanel](keepV4TopPanel.png)
+
+
+It's (still, v4, intentionally)  missing a 7805 (or the like) voltage regulator. I originally built this with Bastl Instruments Omsynth Breadboard kit:
 https://noise.kitchen/search?controller=search&s=omsynth 
 
 
