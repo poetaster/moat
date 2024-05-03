@@ -1,0 +1,68 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=keep.v4
+# Date=19:57:36
+# CreatedBy=Fritzing 1.0.2b.2023-12-20.1.0.2rc2-1-gdbdbe34c
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+Jled,";;;;;;;;","THT",2318.19,1697.71,90,Top,THT
+100Klfo,";;;;;0.5W;;;","THT",3036.76,490.575,90,Top,THT
+Jx2,";;;;;;;;","THT",944.616,1155.58,90,Top,THT
+out,";;;;;;;;","",943.327,778.342,-90,Top,MANUAL
+100Km2,";;;;;0.5W;;;","THT",3150.41,1495.47,0,Top,THT
+100Km1,";;;;;0.5W;;;","THT",3147.38,2039.09,0,Top,THT
+4.7k3,"4.7k;;;;;0.25W;;;","THT",801.838,1880.73,0,Top,THT
+4.7k,"330;;;;;0.25W;;;","THT",2949.05,2378.94,180,Top,THT
+4.7k,"4.7k;;;;;0.25W;;;","THT",470.249,1686.47,180,Top,THT
+68nf,";68nF;;16V;;;;;","200 mil [THT, multilayer]",1198.94,1876.32,0,Top,THT
+VCC1,";;;3V;;;;;","",758.371,645.731,90,Top,MANUAL
+10shape,";;;;;0.5W;;;","THT",344.055,2158.5,180,Top,THT
+1uf,";1µF;;16V;;;;;","100 mil [THT, electrolytic]",1318.58,1297.89,0,Top,THT
+1uf,";1µF;;16V;;;;;","100 mil [THT, electrolytic]",1699.48,938.453,90,Top,THT
+100Kx2,";;;;;0.5W;;;","THT",340.381,862.42,180,Top,THT
+Jm2,";;;;;;;;","THT",2806.4,1585.58,180,Top,THT
+Jm1,";;;;;;;;","THT",2807.64,1887.19,180,Top,THT
+j40,";;;;;;;;","THT",2126.2,1905.58,-90,Top,THT
+j41,";;;;;;;;","THT",2028.2,2454.47,-90,Top,THT
+TRS1,";;;;;;;;","PG203J [THT]",872.204,217.765,90,Top,THT
+LDR,";;;;;0.25W;;;","THT",1556.13,1793.69,90,Top,THT
+XR2206,";;;;;;;;","dil16",1138.09,2179.21,0,Top,THT
+100n,";100 nF;;35V;;;;;","100 mil [THT, multilayer]",1161.46,859.842,0,Top,THT
+j40,";;;;;;;;","THT",2806.1,2140.21,0,Top,THT
+jlfo,";;;;;;;;","THT",3307.68,1078.45,90,Top,THT
+100Kosc,";;;;;0.5W;;;","THT",2514.03,490.575,90,Top,THT
+4.7k,"4.7k;;;;;0.25W;;;","THT",384.898,1780.23,180,Top,THT
+4.7k,"4.7k;;;;;0.25W;;;","THT",785.16,1661.02,90,Top,THT
+1K,"1k;;;;;0.25W;;;","THT",1011.35,1596.59,180,Top,THT
+1uf,";1µF;;16V;;;;;","100 mil [THT, electrolytic]",2663.52,954.764,-90,Top,THT
+330o,"330;;;;;0.25W;;;","THT",3109.24,1178.44,0,Top,THT
+100k,"100k;;;;;0.25W;;;","THT",2359.07,887.597,180,Top,THT
+10Kflt,";;;;;0.5W;;;","THT",1984.86,490.575,90,Top,THT
+Jxs,";;;;;;;;","THT",1437.78,2452.26,-90,Top,THT
+J2,";;;;;;;;","THT",1489.46,1339.84,0,Top,THT
+Power plug1,";;;;;;;;","",305.541,373.319,0,Top,MANUAL
+100Kx1,";;;;;0.5W;;;","THT",341.562,1393.32,180,Top,THT
+10uf,";10μF;;16V;;;;;","100 mil [THT, electrolytic]",3078.86,941.231,-90,Top,THT
+47nf,";47nF;;16V;;;;;","100 mil [THT, multilayer]",1323.96,954.842,90,Top,THT
+4040,";;;;;;;;","DIP16 [THT]",2127.52,2169.61,-90,Top,THT
+LED3,";;;;0.030A;;;;","3 mm [THT]",2008.3,1756.68,180,Top,THT
+4.7k,"4.7k;;;;;0.25W;;;","THT",1164.47,1257.79,90,Top,THT
+Jx1,";;;;;;;;","THT",944.549,1265.02,-90,Top,THT
+LED2,";;;;0.030A;;;;","3 mm [THT]",2631.62,2375.98,90,Top,THT
+4.7k,"4.7k;;;;;0.25W;;;","THT",1168.13,1740.43,180,Top,THT
+220o,"220;;;;;0.25W;;;","THT",862.604,2461.45,0,Top,THT
+.22,";0.22µF;;16V;;;;;","200 mil [THT, multilayer]",711.016,1299.51,-90,Top,THT
+J1,";;;;;;;;","THT",1597.37,1340.04,0,Top,THT
+100Kmx,";;;;;0.5W;;;","THT",1428,497.019,90,Top,THT
+40106,";;;;;;;;","DIP (Dual Inline) [THT]",2179.75,1390.92,90,Top,THT
+Jamp,";;;;;;;;","THT",943.804,1374.81,90,Top,THT
+Josc,";;;;;;;;","THT",2180.28,1047.99,90,Top,THT
