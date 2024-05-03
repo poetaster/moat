@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="89mm" height="59mm" viewBox="0 0 89 59" version="1.1" id="svg8" inkscape:version="0.92.2 5c3e80d, 2017-08-06" sodipodi:docname="90x60_R1.svg">
+    <defs id="defs2"/>
+    <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="3.2195927" inkscape:cx="168.18898" inkscape:cy="111.49606" inkscape:document-units="mm" inkscape:current-layer="boardoutline" showgrid="true" showguides="true" inkscape:snap-tangential="true" gridtolerance="10" guidehicolor="#5aff00" guidehiopacity="0.49803922" inkscape:lockguides="false" guidecolor="#ff8800" guideopacity="0.49803922" inkscape:guide-bbox="true" inkscape:showpageshadow="false">
+        <inkscape:grid type="xygrid" id="grid923" empcolor="#3f4eff" empopacity="0.25098039" spacingy="0.99999999" spacingx="0.99999999" color="#3fecff" opacity="0.1254902" originx="-10.000001" originy="-10.000007"/>
+        <sodipodi:guide position="-4.4567095e-07,-7.4700282e-06" orientation="1,0" id="guide817" inkscape:locked="false"/>
+        <sodipodi:guide position="-4.4567095e-07,-7.4700282e-06" orientation="0,1" id="guide819" inkscape:locked="false"/>
+        <sodipodi:guide position="6.999999,-2.0000074" orientation="1,0" id="guide828" inkscape:locked="false"/>
+        <sodipodi:guide position="0.99999891,5.9999926" orientation="0,1" id="guide830" inkscape:locked="false"/>
+        <sodipodi:guide position="2.9999988,65.999991" orientation="0,1" id="guide829" inkscape:locked="false"/>
+        <sodipodi:guide position="93,72.999994" orientation="1,0" id="guide831" inkscape:locked="false"/>
+    </sodipodi:namedview>
+    <metadata id="metadata5">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-10,-227.99999)">
+        <g inkscape:groupmode="layer" id="board" inkscape:label="board" style="display:inline">
+            <g id="g981">
+                <g id="g1151" transform="matrix(0.89177926,0,0,0.84526639,0.99324528,44.492867)">
+                    <path id="rect817" d="m 10.099758,217.09975 h 99.800482 v 69.80048 H 10.099758 Z" style="opacity:1;fill:#008c00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.19951545;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:connector-curvature="0"/>
+                </g>
+            </g>
+            <g inkscape:groupmode="layer" id="boardoutline" inkscape:label="boardoutline">
+                <rect transform="translate(-1.0833333e-7,-1.1458333e-6)" style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.50799966;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rect838" width="0.99999994" height="18" x="20" y="240"/>
+                <rect transform="translate(-1.0833333e-7,-1.1458333e-6)" style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.50799966;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rect840" width="18" height="11" x="29.999998" y="238"/>
+                <circle transform="translate(-1.0833333e-7,-1.1458333e-6)" style="display:inline;fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.508;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" id="path844" cx="49.999996" cy="271" r="6"/>
+                <path transform="rotate(-1.153279e-4)" style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 62.499512,242.00012 c 0.277,0 0.5,0.223 0.5,0.5 v 2 c 0,0.277 -0.223,0.5 -0.5,0.5 -0.277,0 -0.5,-0.223 -0.5,-0.5 v -2 c 0,-0.277 0.223,-0.5 0.5,-0.5 z" id="rect839"/>
+                <path transform="matrix(1,2.0128516e-6,2.0128516e-6,-1,0,0)" style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25400001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 64.79422,-244.99986 h 1 v 3 h -1 z" id="rect839-7"/>
+                <path transform="matrix(1,2.0128516e-6,2.0128516e-6,-1,0,0)" style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 73.144143,-252.6729 h 0.999998 c 10e-7,0 10e-7,0 10e-7,0 v 3 c 0,0 0,0 -10e-7,0 h -0.999998 c 0,0 -10e-7,0 -10e-7,0 v -3 c 0,0 10e-7,0 10e-7,0 z" id="rect839-7-6"/>
+            </g>
+        </g>
+        <g inkscape:groupmode="layer" id="silkscreen" inkscape:label="silkscreen" style="display:inline">
+            <rect style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.50800002;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rect886" width="84" height="53.999996" x="12.999999" y="231" ry="0"/>
+        </g>
+    </g>
+</svg>

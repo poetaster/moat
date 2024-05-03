@@ -26,7 +26,7 @@ Version 4 adds waveshaping on the amplitude modulation input, changes the order 
 
 ## Historical builds
 
-Sadly, no pics of the once in mint tins. Yes, I did that :)
+Sadly, no pics of the ones in mint tins. Yes, I did that :)
 
 ![Cigarbox prototype laser cut with etched lettering](keep_v3.jpg)
 ![Cigarbox prototype with kastle](keepv3-chef-kastle.jpg)
