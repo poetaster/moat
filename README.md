@@ -25,6 +25,7 @@ Version 4 adds waveshaping on the amplitude modulation input, changes the order 
 ![PCB view](keepV4pcb.png)
 ![PCB toppanel](keepV4TopPanel.png)
 
+![schematic](keep.v5_schem.jpg)
 
 ## Historical builds
 
