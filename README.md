@@ -7,7 +7,9 @@ Moat, unlike Kastle, is analog. It uses a Hex Schmitt-trigger (40106be) for puls
 
 The XR features 2 FM inputs and one AM input. The waveshape of the XR can be tuned from brash triangle to simple sine. The XOR is providing on LFO pulse and one square wave OSC. And everything modulates:)
 
-Some audio samples can be found here: https://poetaster.org/keep . You can also order a kit to make it from me :)
+Some audio samples can be found here: https://poetaster.org/keep . You can also order a kit to make it from me :) I also sell on https://tonetoys.etsy.com and Tindie.
+
+<a href="https://www.tindie.com/stores/poetaster/?ref=offsite_badges&utm_source=sellers_poetaster&utm_medium=badges&utm_campaign=badge_small"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie" width="200" height="55"></a>
 
 ![v4 keep](keep_wired_1.jpg)
 
