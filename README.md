@@ -3,7 +3,7 @@
 A fritzing project to build a semi modular pocket synth. An analog companion to Bastl instruments Kastle. 
 Find Kastle source here: https://github.com/bastl-instruments/kastle 
 
-Moat, unlike Kastle, is analog. It uses a Hex Schmitt-trigger (40106be) for pulses (lfo/osc), a binary ripple counter (4040) for sequencing and an XR 2206 for FM and AM audio. And (very) primitive filters. It sequences using the binary ripple counter, mashed :) 
+Moat, unlike Kastle, is analog. It uses a Hex Schmitt-trigger (40106be) for pulses (lfo/osc), a binary ripple counter (4040) for sequencing and an XR 2206 for FM and AM audio. And (very) primitive filters. It sequences using the binary ripple counter, mashed :) Now this actually refers to keep, and Moat has been reborn. See below.
 
 The XR features 2 FM inputs and one AM input. The waveshape of the XR can be tuned from brash triangle to simple sine. The XOR is providing on LFO pulse and one square wave OSC. And everything modulates:)
 
@@ -26,6 +26,13 @@ Version 4 adds waveshaping on the amplitude modulation input, changes the order 
 ![PCB toppanel](keepV4TopPanel.png)
 
 ![schematic](keep.v5_schem.jpg)
+
+## Moat
+
+I had retired the name as I was thinking of a variant and different behaviour and the old moat became keep. Now, we finally have a moat! A production test run is on order:
+
+![Moat pcb](moat_pcb.v0.1.jpg)
+
 
 ## Historical builds
 
