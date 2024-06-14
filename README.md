@@ -33,6 +33,10 @@ I had retired the name as I was thinking of a variant and different behaviour an
 
 ![Moat pcb](moat_pcb.v0.1.jpg)
 
+And, the next variant, with a digital delay component, the moat shark (full name, moat shark, lazer arcade):
+
+![Moat Shark pcb](moat-shark_pcb.jpg)
+
 
 ## Historical builds
 
