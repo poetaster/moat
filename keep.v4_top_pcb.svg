@@ -30,15 +30,15 @@
      inkscape:snap-others="false"
      inkscape:object-nodes="false"
      inkscape:snap-nodes="false"
-     inkscape:zoom="3.088897"
-     inkscape:cx="164.29813"
-     inkscape:cy="136.61835"
+     inkscape:zoom="2.18418"
+     inkscape:cx="188.85806"
+     inkscape:cy="97.519435"
      inkscape:window-width="1920"
      inkscape:window-height="1055"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2001" />
+     inkscape:current-layer="svg2944" />
   <g
      partID="866068030"
      id="g1950"
@@ -121,7 +121,8 @@
   </g>
   <g
      partID="866104900"
-     id="g2021">
+     id="g2021"
+     transform="translate(2.9999972)">
     <g
        transform="translate(1.66474,69.9345)"
        id="g2019">
@@ -146,7 +147,8 @@
   </g>
   <g
      partID="866105060"
-     id="g2037">
+     id="g2037"
+     transform="translate(-2.9999972)">
     <g
        transform="translate(223.449,24.3242)"
        id="g2035">
@@ -161,7 +163,8 @@
   </g>
   <g
      partID="866105040"
-     id="g2045">
+     id="g2045"
+     transform="translate(-2.9999972)">
     <g
        transform="translate(223.715,68.1642)"
        id="g2043">
@@ -236,7 +239,8 @@
   </g>
   <g
      partID="866104920"
-     id="g2085">
+     id="g2085"
+     transform="translate(2.9999972)">
     <g
        transform="translate(1.66474,111.524)"
        id="g2083">
@@ -251,7 +255,8 @@
   </g>
   <g
      partID="866104880"
-     id="g2093">
+     id="g2093"
+     transform="translate(2.9999972)">
     <g
        transform="translate(1.66474,19.8092)"
        id="g2091">
@@ -355,160 +360,6 @@
     </g>
   </g>
   <g
-     partID="866104881"
-     id="g2535">
-    <g
-       transform="translate(1.66474,19.8092)"
-       id="g2533">
-      <g
-         id="g2531">
-        <path
-           id="circle2529"
-           style="stroke:#fdde68;stroke-width:0"
-           d="M 21.44244,11.5212 A 9.9212399,9.9212399 0 0 1 11.5212,21.44244 9.9212399,9.9212399 0 0 1 1.5999603,11.5212 9.9212399,9.9212399 0 0 1 11.5212,1.5999603 9.9212399,9.9212399 0 0 1 21.44244,11.5212 Z" />
-      </g>
-    </g>
-  </g>
-  <g
-     partID="866104901"
-     id="g2543">
-    <g
-       transform="translate(1.66474,69.9345)"
-       id="g2541">
-      <g
-         id="g2539">
-        <circle
-           cx="11.5212"
-           cy="11.5212"
-           fill="#000000"
-           id="circle2537"
-           r="9.9212399"
-           stroke="#fdde68"
-           stroke-width="0" />
-      </g>
-    </g>
-  </g>
-  <g
-     partID="866104921"
-     id="g2551"
-     style="display:inline">
-    <g
-       transform="translate(1.66474,111.524)"
-       id="g2549">
-      <g
-         id="g2547">
-        <path
-           id="circle2545"
-           style="stroke:#fdde68;stroke-width:0"
-           d="M 21.44244,11.5212 A 9.9212399,9.9212399 0 0 1 11.5212,21.44244 9.9212399,9.9212399 0 0 1 1.5999603,11.5212 9.9212399,9.9212399 0 0 1 11.5212,1.5999603 9.9212399,9.9212399 0 0 1 21.44244,11.5212 Z" />
-      </g>
-    </g>
-  </g>
-  <g
-     partID="866104961"
-     id="g2559"
-     style="display:inline">
-    <g
-       transform="translate(91.9474,143.596)"
-       id="g2557">
-      <g
-         id="g2555">
-        <path
-           id="circle2553"
-           style="stroke:#fdde68;stroke-width:0"
-           d="M 21.44244,11.5212 A 9.9212399,9.9212399 0 0 1 11.5212,21.44244 9.9212399,9.9212399 0 0 1 1.5999603,11.5212 9.9212399,9.9212399 0 0 1 11.5212,1.5999603 9.9212399,9.9212399 0 0 1 21.44244,11.5212 Z" />
-      </g>
-    </g>
-  </g>
-  <g
-     partID="866104981"
-     id="g2567"
-     style="display:inline">
-    <g
-       transform="translate(133.675,143.596)"
-       id="g2565">
-      <g
-         id="g2563">
-        <path
-           id="circle2561"
-           style="stroke:#fdde68;stroke-width:0"
-           d="M 21.44244,11.5212 A 9.9212399,9.9212399 0 0 1 11.5212,21.44244 9.9212399,9.9212399 0 0 1 1.5999603,11.5212 9.9212399,9.9212399 0 0 1 11.5212,1.5999603 9.9212399,9.9212399 0 0 1 21.44244,11.5212 Z" />
-      </g>
-    </g>
-  </g>
-  <g
-     partID="866105001"
-     id="g2575"
-     style="display:inline">
-    <g
-       transform="translate(175.051,143.596)"
-       id="g2573">
-      <g
-         id="g2571">
-        <circle
-           cx="11.5212"
-           cy="11.5212"
-           fill="#000000"
-           id="circle2569"
-           r="9.9212399"
-           stroke="#fdde68"
-           stroke-width="0" />
-      </g>
-    </g>
-  </g>
-  <g
-     partID="866105021"
-     id="g2583"
-     style="display:inline">
-    <g
-       transform="translate(215.931,143.596)"
-       id="g2581">
-      <g
-         id="g2579">
-        <circle
-           cx="11.5212"
-           cy="11.5212"
-           fill="#000000"
-           id="circle2577"
-           r="9.9212399"
-           stroke="#fdde68"
-           stroke-width="0" />
-      </g>
-    </g>
-  </g>
-  <g
-     partID="866105041"
-     id="g2591"
-     style="display:inline">
-    <g
-       transform="translate(223.715,68.1642)"
-       id="g2589">
-      <g
-         id="g2587">
-        <path
-           id="circle2585"
-           style="stroke:#fdde68;stroke-width:0"
-           d="M 21.44244,11.5212 A 9.9212399,9.9212399 0 0 1 11.5212,21.44244 9.9212399,9.9212399 0 0 1 1.5999603,11.5212 9.9212399,9.9212399 0 0 1 11.5212,1.5999603 9.9212399,9.9212399 0 0 1 21.44244,11.5212 Z" />
-      </g>
-    </g>
-  </g>
-  <g
-     partID="866105061"
-     id="g2599"
-     style="display:inline">
-    <g
-       transform="translate(223.449,24.3242)"
-       id="g2597">
-      <g
-         id="g2595">
-        <path
-           id="circle2593"
-           style="stroke:#fdde68;stroke-width:0"
-           d="M 21.44244,11.5212 A 9.9212399,9.9212399 0 0 1 11.5212,21.44244 9.9212399,9.9212399 0 0 1 1.5999603,11.5212 9.9212399,9.9212399 0 0 1 11.5212,1.5999603 9.9212399,9.9212399 0 0 1 21.44244,11.5212 Z" />
-      </g>
-    </g>
-  </g>
-  <g
      partID="866105081"
      id="g2607"
      style="display:none">
@@ -562,9 +413,9 @@
   <rect
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.410121;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect5636-3-5"
-     width="22.649137"
+     width="24.608191"
      height="8.6168327"
-     x="156.60522"
+     x="155.57805"
      y="57.645901" />
   <rect
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.3424px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -590,15 +441,26 @@
   <rect
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.408439px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="rect5636-3-6-6"
-     width="22.711014"
+     width="25.012135"
      height="8.5111885"
-     x="142.5276"
+     x="141.31631"
      y="104.48594" />
   <rect
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.569822px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="rect5636-3-6-7"
-     width="44.398159"
+     width="46.485802"
      height="8.4739714"
-     x="131.79872"
+     x="130.7493"
      y="43.731369" />
+  <rect
+     style="fill:#2b0000;fill-rule:evenodd;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="rect44329"
+     width="15.590322"
+     height="7.0869093"
+     x="184.05321"
+     y="9.376545" />
+  <path
+     id="path53161"
+     style="fill:none;stroke:#000000;stroke-width:0.749999;paint-order:stroke fill markers"
+     d="m 56.755295,101.45644 a 8.5039291,8.5039291 0 0 1 -8.503929,8.50393 8.5039291,8.5039291 0 0 1 -8.503929,-8.50393 8.5039291,8.5039291 0 0 1 8.503929,-8.503925 8.5039291,8.5039291 0 0 1 8.503929,8.503925 z" />
 </svg>
