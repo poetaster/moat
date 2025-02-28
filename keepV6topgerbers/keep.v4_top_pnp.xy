@@ -1,0 +1,16 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=keep.v4_top
+# Date=19:09:02
+# CreatedBy=Fritzing 1.0.3b.2024-05-30.1.0.2rc2-247-ga7811ba0
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
